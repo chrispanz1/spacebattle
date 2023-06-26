@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(to right,aqua,#065535);
+    
+  }
+  .majorContainer{
+    height: 500px;
+    width:1000px;
+    background-color: white;
+    
+    
+    
+  }
+  .topLine{
+    height:100px;
+    width: 800px;
+    background-color: grey;
+    border:solid black;
+    margin-left:100px;
+  }
+  .welcomeDiv{
+    height: 100px;
+    width: 100px;
+    padding-left: 350px;
+   
+  }
+  .pic{
+    height:50px;
+    width: 50px;
+  }
+  .bigWrapper{
+    display: flex;
+  }
+  .yourShip{
+    display:flex;
+  }
